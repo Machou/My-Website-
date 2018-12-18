@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
 
-[GitHub Help](https://help.github.com/categories/github-pages-basics/)
-[GitHub Pages](https://pages.github.com/)
-[Link of website](https://machou.github.io/index/)
+* [GitHub Help](https://help.github.com/categories/github-pages-basics/)
+* [GitHub Pages](https://pages.github.com/)
+* [Link of website](https://machou.github.io/My-Website-/)
 
 
 You can use the [editor on GitHub](https://github.com/Machou/Mon-Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
