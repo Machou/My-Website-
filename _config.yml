@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: My Website
+description: My Website is test page for “  GitHub Pages ”
+show_downloads: true
+google_analytics:
